@@ -1,0 +1,125 @@
+.software_mainpage {
+  width: 100%;
+  height: 100vh;
+  background:linear-gradient(#0b36537a, #0b365393),url(../img/softwaredev1.avif);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+.vanshaj::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: url("../img/vanshaj.webp") no-repeat center center/cover;
+  z-index: -1;
+  opacity: 1;  
+  transition: all .5s ease-in;
+}
+
+.dhairya::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: url("../img/dhairya.jpeg") no-repeat center center/cover;
+  z-index: -1;
+  opacity: 1;  
+  transition: all .5s ease-in;
+}
+
+.gaurav::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: url("../img/gaurav.jpeg") no-repeat center center/cover;
+  z-index: -1;
+  opacity: 1;
+  transition: all 0.5s ease-in;
+}
+
+.rohan::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: url("../img/rohan.jpeg") no-repeat center center/cover;
+  z-index: -1;
+  opacity: 1;
+  transition: all 0.5s ease-in;
+}
+
+.kushagra::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: url("../img/kushagra.jpeg") no-repeat center center/cover;
+  z-index: -1;
+  opacity: 1;
+  transition: all 0.5s ease-in;
+}
+
+.shiwang::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: url("../img/shiwang.webp") no-repeat center center/cover;
+  z-index: -1;
+  opacity: 1;
+  transition: all 0.5s ease-in;
+}
+
+.aman::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: url("../img/aman.jpeg") no-repeat center center/cover;
+  z-index: -1;
+  opacity: 1;
+  transition: all 0.5s ease-in;
+}
+.hiteshwar::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: url("../img/hiteshwar.webp") no-repeat center center/cover;
+  z-index: -1;
+  opacity: 1;
+  transition: all 0.5s ease-in;
+}
+.pradeep::before {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: url("../img/pradeep.jpeg") no-repeat center center/cover;
+  z-index: -1;
+  opacity: 1;
+  transition: all 0.5s ease-in;
+}
+
+
